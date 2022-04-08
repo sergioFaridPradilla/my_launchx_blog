@@ -7,6 +7,6 @@ Hola ✌️  soy el explorer Sergio Farid y este es mi blog personal donde compa
 
 Te invito a conocer mis aprendizajes y leer mis experiencias guiado y acompañado del talentoso Carlo Gilmar.
 
-Las espectativas en pasar una luna de miel con Front-End y Backend.
+Las espectativas esta en pasar una luna de miel con Front-End y Backend.
 
 🚀
